@@ -1,0 +1,9 @@
+<database>
+	<vendor>mariadb</vendor>
+	<name>jee</name>
+	<port>3306</port>
+	<driver>org.mariadb.jdbc.Driver</driver>
+	<url>jdbc:mariadb://localhost</url>
+	<login>root</login>
+	<password></password>
+</database>
